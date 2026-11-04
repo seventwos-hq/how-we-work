@@ -11,3 +11,4 @@ okf_version: "0.2"
 * [Repository Provenance](plans/repository-provenance.md) - A minimal, dependency-free MVP for recording change intent, human direction, agent involvement, review, and source outcome.
 * [Knowledge Graph Report](graphify-out/GRAPH_REPORT.md) - Generated analysis of the assembled Graphify knowledge graph.
 * [Knowledge Graph Snapshot (2026-10-18)](graphify-out/2026-10-18/GRAPH_REPORT.md) - Archived analysis retained from the Graphify update.
+* [Knowledge Graph Snapshot (2026-10-26)](graphify-out/2026-10-26/GRAPH_REPORT.md) - Archived analysis retained from the Graphify update.

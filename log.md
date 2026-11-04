@@ -1,5 +1,9 @@
 # Update Log
 
+## 2026-11-04
+
+* **Graph archive indexed**: add the 2026-10-26 report to the bundle manifest while retaining the 2026-10-18 archive link.
+
 ## 2026-10-18
 
 * **Central OCR Enrollment**: Replace local OCR execution with inert configuration for a trusted central controller; remove provider-bearing PR workflows. Activation and provider authorization remain pending.
