@@ -4,6 +4,17 @@
   "disclosure_class": "public",
   "entries": [
     {
+      "id": "2026-11-08-agent-guidance-integration",
+      "intent": "Integrate repository-specific agent guidance and work-state documentation with valid OKF metadata and index coverage, while distinguishing staging sign-off from production-release authority.",
+      "human_direction": "A maintainer requested integration of the reviewed documentation and explicitly approved the existing Pages publication and Gemini/Graphify processing triggered by its merge, subject to normal review and CI gates.",
+      "agent_involvement": "generated-and-reviewed",
+      "review": "The CTO agent independently reviewed the source documentation and validation evidence. Native Copilot review requested this provenance entry; latest-head review and required CI remain prerequisites for merge.",
+      "outcome": {
+        "origin": "pull_request",
+        "reference": "https://github.com/seventwos-hq/how-we-work/pull/48"
+      }
+    },
+    {
       "id": "2026-10-27-bounded-execution-policy",
       "intent": "Reduce unnecessary implementation handoffs and repeated validation while preserving independent review, required checks, operation ownership, and cumulative review limits.",
       "human_direction": "A maintainer requested independent stress-testing of a task-efficiency plan and a safe rollout of the resulting execution guidance.",
