@@ -1,0 +1,1 @@
+{"nodes": [{"id": "github_ocrci", "label": "Central OpenCodeReview integration", "file_type": "document", "source_file": ".github/OCR-CI.md", "rationale": "Inert repository enrollment for trusted central OCR execution.", "_origin": "semantic"}], "edges": [], "hyperedges": []}
