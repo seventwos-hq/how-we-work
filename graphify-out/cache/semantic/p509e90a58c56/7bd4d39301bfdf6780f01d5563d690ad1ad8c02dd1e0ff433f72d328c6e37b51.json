@@ -1,0 +1,1 @@
+{"nodes": [{"id": "github_copilotinstructions", "label": "Copilot Instructions", "file_type": "document", "source_file": ".github/copilot-instructions.md", "rationale": "Rules for autonomous review, repo purpose, and engineering workflow.", "_origin": "semantic"}], "edges": [], "hyperedges": []}
