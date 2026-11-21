@@ -35,4 +35,4 @@ By connecting human influence to machine output, we create an environment where 
 
 © Seventwos Pte. Ltd. All rights reserved.
 
-Third-party materials remain under their respective licences. The bundled [Graphify skill](.copilot/skills/graphify) is distributed under the Apache License 2.0; see its [licence](.copilot/skills/graphify/LICENSE), [notice](.copilot/skills/graphify/NOTICE), and [MIT notice](.copilot/skills/graphify/LICENSE-MIT).
+Third-party materials remain under their respective licences.
